@@ -1,0 +1,7 @@
+datos_personales = {'nombre': 'Lana del Rey', 'edad': 35, 'ciudad': 'ultravilence'}
+print("Nombre:", datos_personales['nombre'])
+datos_personales['edad'] = 200
+
+datos_personales['genero'] = 'femenino'
+
+print("Lista", datos_personales)
